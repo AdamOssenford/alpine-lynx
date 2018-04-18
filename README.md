@@ -11,4 +11,4 @@ can use to do browsing of the web in a container
 or cool stuff like lynx dump
  docker run -it adamoss/lynx https://www.slashdot.org/
 
-On mac with iterm2 you might try adamoss/links instead (if you want clickable links without tabbing)
+
