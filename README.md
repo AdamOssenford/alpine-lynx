@@ -9,6 +9,6 @@ can use to do browsing of the web in a container
  docker run -it adamoss/lynx https://www.google.com/
 
 or cool stuff like lynx dump
- docker run -it adamoss/lynx https://www.slashdot.org/
+ docker run -it adamoss/lynx https://www.slashdot.org/ --dump
 
 
